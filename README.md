@@ -1,1 +1,1 @@
-"this is example git asms" 
+This is a change from featureB.
