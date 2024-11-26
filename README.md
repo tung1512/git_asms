@@ -1,1 +1,2 @@
-This is a change from featureA.
+
+This is a change from featureA and featureB.
